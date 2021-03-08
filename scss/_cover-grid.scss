@@ -1,0 +1,74 @@
+@media(max-width:480px){
+    .cover{
+        margin: 0 auto;
+        padding: 4px;
+        position: relative;
+        article{
+            min-height: 30vh;
+            position: relative;
+        }
+    }
+    
+    .cover-story{
+        float: left;
+        overflow: hidden;
+        padding: 4px;
+        position: relative;
+        width: 100%;
+        
+    }
+    
+
+    /*
+    .cover-grid{
+        margin-left: auto;
+        margin-right: auto;
+        padding: 6px;
+        position: relative;
+        display: grid;
+        grid-template-rows: repeat(3, 136px);
+        row-gap: 10px;
+        margin-top: 102px;
+        a{
+            font-family: 'Quantico', sans-serif;
+            font-weight: 700;
+            letter-spacing: .04em;
+            line-height: 1;
+            color: #fff;
+             font-size: 20px;
+             letter-spacing: -.015em;
+          }
+        }
+    
+      
+      
+        
+    .gradient{
+        background: linear-gradient(rgba(0,0,0,.4), #000 90%);
+        // padding: 14px 12px;
+        height: 100%;
+       z-index: 1;
+        }
+    .cover-container-top{
+        background-image: url("https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F10%2FPixel-5-5-of-5.jpg&signature=ac4da47157d9dbdb6ac3c54907620996");
+        background-size: contain;
+        background-position: center;
+        overflow: hidden;
+        // margin-top: 102px;
+        
+    }
+    .cover-container-mid{
+        background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/boost.png");
+        background-size: cover;
+            .anchor-fix{
+                 display: block;
+                 padding-top: 50px;
+            
+            }
+    }
+    .cover-container-bot{
+            background-image: url("https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2FUntitled-design-2021-03-01T195552.789.png&signature=87a34c3301ffa92e22cf58e4d1d23d22");
+            background-size: cover;
+    }
+    */
+}

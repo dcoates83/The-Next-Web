@@ -1,0 +1,186 @@
+@media(max-width:480px){
+.section{
+    margin-bottom: 10px;
+}
+    
+ .section ul{
+     display: grid;
+
+ }
+ .section-popular-image{
+    background-size: cover;
+    background-position: 50%;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+    
+}
+
+    .section-popular-header{
+//         bottom: 0;
+// left: 0;
+// padding: 14px;
+// position: absolute;
+// right: 0;
+// z-index: 3;
+        position: relative;
+        display: grid;
+        grid-template-rows: auto 1fr auto;
+        row-gap: 8px;
+        height: 100%;
+       
+        .background-container{
+            min-height: 30vh;
+            width: 100%;
+        }
+        .gradient-container{
+            padding: 14px;
+            background: linear-gradient(rgba(0,0,0,.1), #000 90%);
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            z-index: 1;
+            h5{
+                font-family: 'Quantico', sans-serif;
+                color: #fff;
+                font-size: 13px;
+                
+                font-weight: 500;
+                text-transform: uppercase;
+                letter-spacing: .04em;
+                line-height: 1.5;
+                            }
+        }
+        .section-popular-title{
+            font-family: 'Quantico', sans-serif;
+            font-weight: 700;
+            letter-spacing: .04em;
+            line-height: 1;
+            color: #fff;
+             font-size: 20px;
+             letter-spacing: -.015em;
+             
+          }
+        //   TODO Maybye add here? margin-top: 10px;
+        //         margin-right: 5px;
+        .section-popular-byline{
+            color: hsla(0,0%,100%,.6);
+            font-size: 12px;
+            font-weight: 500;
+            line-height: 16px;
+        }
+            ul{
+                color:rgba(255, 255, 255, 0.6);
+                display: flex;
+                justify-content: flex-start;
+                align-items: baseline;
+                
+          
+                li{
+                    margin-top: 10px;
+                    margin-right: 5px;
+                    font-size: 12px;
+                line-height: 16px;
+                color:rgba(255, 255, 255, 0.6);
+                    a{
+                        color:rgba(255, 255, 255, 0.6);
+                        font: inherit;
+                    }
+                    
+                    i{
+                        margin-right: 5px;
+                    }
+                }
+              }  
+          
+        
+          .section-popular-section{
+            font-family: 'Quantico',sans-serif;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: .04em;
+            line-height: 1.5;
+            color: #fff;
+            font-size: 13px;
+          }
+
+       
+        
+    }
+ //   Bottom part of header of grid
+ .margin-fix{
+     margin-top: 0;
+ }
+        .section-latest-header {
+            flex: 1;
+          overflow: hidden;
+          padding: 10px 14px 0;
+        }
+    .section-latest{
+        position: relative;
+        top: 0;
+        display: flex;
+        flex-direction: row;
+        background-color: rgba(255,68,34,.06);
+        margin: 2px 0;
+    }
+    .section-latest-image{
+        flex: 0 0 96px;
+        background-color: #000;
+        background-position: 50%;
+        background-size: cover;
+        height: 96px;
+        width: 96px;
+    }
+    .section-latest-section {
+        color: #f42;
+        font-size: 13px;
+        font-weight: 500;
+text-transform: uppercase;
+letter-spacing: .04em;
+line-height: 1.5;
+    }
+    .section-latest-title {
+        
+        a {
+            font-size: 14px;
+            color: #f42;
+            font-weight: 700;
+            line-height: 1.25;
+            max-height: 56px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            width: 100%;
+        }
+    }
+    // List items in headline
+    .section-headline h4 {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.5;
+        list-style: circle;
+        color: #555;
+         display: block;
+        padding: 6px 0 6px 14px;
+         position: relative;
+    }
+    .section-headline h4 a::before {
+        background-color: #f42;
+        border-radius: 50%;
+        content: "";
+        display: block;
+        height: 4px;
+        left: 0;
+        position: absolute;
+        top: 13px;
+        width: 4px;
+    }
+    .section-headline {
+        border-bottom: 1px solid #eee;
+    }
+   
+}

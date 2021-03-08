@@ -1,0 +1,53 @@
+
+$font-stack: "ARS Maquette", Helvetica, Arial,sans-serif;
+$primary-color: #f42;
+$secondary-color: rgba(255, 255, 255, 0.6);
+$font-primary: 'Quantico', sans-serif;
+
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-family: $font-stack;
+font-size: 14px;
+
+}
+ul{
+    list-style: none;
+}
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+body{
+    color: #000;
+    font-size: 14px;
+    vertical-align: baseline;
+}
+h5{
+    font-style: $font-primary;
+    font-weight: 500;
+text-transform: uppercase;
+letter-spacing: .04em;
+line-height: 1.5;
+}
+.fas{
+    width: 16px;
+height: 16px;
+opacity: .9;
+
+}
+.main{
+    position: relative;
+    margin-top: 100px;
+}
+
+@import "nav";
+@import "cover-grid";
+@import "latest";
+@import "latest-middle-sections";
+@import "funding";
+@import "footer";

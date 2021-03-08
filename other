@@ -1,0 +1,2431 @@
+<main class="main">
+        <div class="cover">
+            <article>
+                <div class="cover-background cover-background-01" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/Article-Cover/MacBook-USB-C.jpg"></div>
+                <a class="cover-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                <header class="cover-header">
+                    <h5 class="section">
+                        <a href="/section/gear">world</a>
+                    </h5>
+                    <h2 class="cover-title">
+                        <a href="https://thenextweb.com/plugged/2021/01/22/report-apple-may-bring-magsafe-and-sd-card-slots-back-to-macbook/">NASA delays Juno spacecraft's retirement after detecting mysterious radio waves</a>
+                    </h2>
+                    <ul class="cover-byline">
+                        <li>
+                            By
+                            <a href="https://thenextweb.com/author/napierlopez/">The Cosmic Companion</a>
+                        </li>
+                        <li>
+                            <i class="material-icons">query_builder</i>
+                            <time datetime="2021-01-23T18:00:16+00:00" class="timeago" data-full-date="Jan 23, 2021 - 23:30">17 hours ago</time>
+                        </li>
+                        <li>
+                            <i class="material-icons">share</i>
+                            43
+                        </li>
+                    </ul>
+                </header>
+            </article>
+            <article>
+                <div class="cover-background cover-background-02" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/Article-Cover/ludicrousspeed.webp"></div>
+                <a class="cover-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                <header class="cover-header">
+                    <h5 class="section">
+                        <a href="/section/gear">tech</a>
+                    </h5>
+                    <h2 class="cover-title">
+                        <a href="https://thenextweb.com/plugged/2021/01/22/report-apple-may-bring-magsafe-and-sd-card-slots-back-to-macbook/">Awful parking is the worst thing about escooters -- TIER has a plan to fix it</a>
+                    </h2>
+                    <ul class="cover-byline">
+                        <li>
+                            By
+                            <a href="https://thenextweb.com/author/napierlopez/">Cities Today</a>
+                        </li>
+                        <li>
+                            <i class="material-icons">query_builder</i>
+                            <time datetime="2021-01-23T16:30:34+00:00" class="timeago" data-full-date="Jan 23, 2021 - 22:00">19 hours ago</time>
+                        </li>
+                        <li>
+                            <i class="material-icons">share</i>
+                            22
+                        </li>
+                    </ul>
+                </header>
+            </article>
+            <article>
+                <div class="cover-background cover-background-03" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/Article-Cover/Snag_b1616b8-796x407.webp"></div>
+                <a class="cover-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                <header class="cover-header">
+                    <h5 class="section">
+                        <a href="/section/gear">tech</a>
+                    </h5>
+                    <h2 class="cover-title">
+                        <a href="https://thenextweb.com/plugged/2021/01/22/report-apple-may-bring-magsafe-and-sd-card-slots-back-to-macbook/">A closer look at AI Incident Database of machine learning failures</a>
+                    </h2>
+                    <ul class="cover-byline">
+                        <li>
+                            By
+                            <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                        </li>
+                        <li>
+                            <i class="material-icons">query_builder</i>
+                            <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                        </li>
+                        <li>
+                            <i class="material-icons">share</i>
+                            76
+                        </li>
+                    </ul>
+                </header>
+            </article>
+        </div>
+    </main>
+
+    <div class="wrapper">
+        <section class="latest-news">
+            <h2 class="title">Latest news
+                <i class="material-icons">chevron_right</i>
+            </h2>
+            <div class="latest-stories">
+                <div class="first-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-01.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            Earth has been habitable for billions of years -- simulations show it was 'just luck'
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">The Conversation</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-24T11:00:05+00:00" class="timeago" data-full-date="Jan 24, 2021 - 16:30">59 minutes ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="second-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-02.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            If you're having problems with your home WiFi network, this Asus router might be your answer
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">TNW Deals</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-23T14:30:49+00:00" class="timeago" data-full-date="Jan 23, 2021 - 20:00">21 hours ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="third-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-03.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            This training package can get you started on a $120,000 a year career as a cloud architect
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">TNW Deals</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-23T14:30:49+00:00" class="timeago" data-full-date="Jan 23, 2021 - 20:00">21 hours ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="fourth-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-04.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            Report: Apple may bring MagSafe and SD card slots backt to MacBook
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Napier Lopez</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="fifth-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-05.webp" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            New physics theory postulates the existence of SLABs: Stupendously Large Black Holes
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Tristan Greene</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="sixth-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-06.webp" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            Google Search has new mobile design -- come spot the difference
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Napier Lopez</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="seventh-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-07.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            A pansexual's perspective on Mass Effect 2's capitulation to Fox News
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Tristan Greene</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="eight-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-08.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            New 'robomorphic' computing method aims to speed up slow witted robots
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Thomas Macaulay</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="funding">
+            <header class="funding-header">
+                <h2 class="title">Latest funding rounds on index.co
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <a class="funding-header-more" href="https://index.co/investments?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">See more</a>
+                <a class="funding-header-more" href="https://index.co/investments?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">Get updates by email</a>
+                <a class="funding-header-more" href="https://index.co/faq?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com#addFunding" target="_blank" rel="noopener noreferrer">Add info</a>
+            </header>
+            <div class="funding-body">
+                <div class="funding-body-wrapper">
+                    <div class="funding-story-container">
+                        <div class="funding-story">
+                            <a class="company-link" href="https://index.co/company/safetywing/funding/series-a?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                <img src="./images/Funding/funding-image-01.jpg" alt="SafetyWing Logo" class="company-logo">
+                                <h4 class="company-name">SafetyWing</h4>
+                                <div class="funding-details">
+                                    <h4>$8M</h4>
+                                    <h5>SERIES A</h5>
+                                </div>
+                            </a>
+                            <div class="funding-card">
+                                <a class="funding-card-bit" href="https://index.co/company/safetywing/funding/series-a?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">local_offer</i>
+                                    <span>Freelancers, +2</span>
+                                </a>
+                                <a class="funding-card-bit" href="https://index.co/company/safetywing/funding/series-a?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">business_center</i>
+                                    <span>Creandum, +2</span>
+                                </a>
+                            </div>
+                            <div class="funding-byline">
+                                <a class="story-link" href="https://www.forbes.com/sites/jonathankeane/2021/01/22/safetywing-raises-8-million-to-expand-its-health-insurance-for-digital-nomads/" target="_blank" rel="noopener noreferrer">
+                                    SafetyWing Raises $8 Million To Expand Its Health Insurance For ‘Digital Nomads’
+                                    <span class="story-title-source">on&nbsp;Forbes Tech</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="funding-story-container">
+                        <div class="funding-story">
+                            <a class="company-link" href="https://index.co/company/blobr/funding/pre-seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                <img src="./images/Funding/funding-image-02.jpg" alt="SafetyWing Logo" class="company-logo">
+                                <h4 class="company-name">Blobr</h4>
+                                <div class="funding-details">
+                                    <h4>&#128;1.2M</h4>
+                                    <h5>PRE-SEED</h5>
+                                </div>
+                            </a>
+                            <div class="funding-card">
+                                <a class="funding-card-bit" href="https://index.co/company/blobr/funding/pre-seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">local_offer</i>
+                                    <span>Information Technology</span>
+                                </a>
+                                <a class="funding-card-bit" href="https://index.co/company/blobr/funding/pre-seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">business_center</i>
+                                    <span>Seedcamp, +2</span>
+                                </a>
+                            </div>
+                            <div class="funding-byline">
+                                <a class="story-link" href="https://social.techcrunch.com/2021/01/22/blobr/" target="_blank" rel="noopener noreferrer">
+                                    Blobr the 'no-code' company turning APIs into products, raise &#128;1.2M
+                                    <span class="story-title-source">on&nbsp;TechCrunch</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="funding-story-container">
+                        <div class="funding-story">
+                            <a class="company-link" href="https://index.co/company/Marxent/funding/series-c?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                <img src="./images/Funding/funding-image-03.jpg" alt="SafetyWing Logo" class="company-logo">
+                                <h4 class="company-name">Marxent Labs</h4>
+                                <div class="funding-details">
+                                    <h4>$15M</h4>
+                                    <h5>SERIES C</h5>
+                                </div>
+                            </a>
+                            <div class="funding-card">
+                                <a class="funding-card-bit" href="https://index.co/company/Marxent/funding/series-c?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">local_offer</i>
+                                    <span>Retail, +3</span>
+                                </a>
+                                <a class="funding-card-bit" href="https://index.co/company/Marxent/funding/series-c?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">business_center</i>
+                                    <span>Bellini Captial</span>
+                                </a>
+                            </div>
+                            <div class="funding-byline">
+                                <a class="story-link" href="https://www.forbes.com/sites/jonathankeane/2021/01/22/safetywing-raises-8-million-to-expand-its-health-insurance-for-digital-nomads/" target="_blank" rel="noopener noreferrer">
+                                    Marxent raises $15M to expand an enterprise 3D home design platform
+                                    <span class="story-title-source">on&nbsp;VentureBeat</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="funding-story-container">
+                        <div class="funding-story">
+                            <a class="company-link" href="https://index.co/company/iteratively/funding/seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                <img src="./images/Funding/funding-image-04.jpg" alt="SafetyWing Logo" class="company-logo">
+                                <h4 class="company-name">Iteratively</h4>
+                                <div class="funding-details">
+                                    <h4>$5.4M</h4>
+                                    <h5>SEED FUND</h5>
+                                </div>
+                            </a>
+                            <div class="funding-card">
+                                <a class="funding-card-bit" href="https://index.co/company/iteratively/funding/seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">local_offer</i>
+                                    <span>Information Technology, +2</span>
+                                </a>
+                                <a class="funding-card-bit" href="https://index.co/company/iteratively/funding/seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">business_center</i>
+                                    <span>Fika Ventures</span>
+                                </a>
+                            </div>
+                            <div class="funding-byline">
+                                <a class="story-link" href="https://www.forbes.com/sites/jonathankeane/2021/01/22/safetywing-raises-8-million-to-expand-its-health-insurance-for-digital-nomads/" target="_blank" rel="noopener noreferrer">
+                                    Google's AI fund leads $5.4M round for data startup Iteratively
+                                    <span class="story-title-source">on&nbsp;SiliconANGLE</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="other-news">
+            <div class="other-news-container">
+                <h2 class="title">Hard Fork
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-01 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/jack-ma.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/22/report-apple-may-bring-magsafe-and-sd-card-slots-back-to-macbook/">Out of the loop about GameStop? Here's a handy reading list</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">GameStop stocks hit record high -- thanks to Redditors</h4>
+                    </header>
+
+                    <a class="section-latest-01 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Alibaba shares jump 8% as Jack Ma surfaces after 3 months
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Twitter shares fall 7% in pre-market trading after Trump's removal 
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Winklevoss comes out of meditation to witness Bitcoins's record high
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        CD Projekt Rekt: Cyberpunk 2077 tanks studio's share price nearly 50%
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        CD Projekt stock down 20% since Cyberpunk reviews hit the internet
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Apps -->
+            <div class="other-news-container">
+                <h2 class="title">Apps
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-02 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">netflix is testing a sleep timer for your late night binges</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Telegram just made it easy to import WhatsApp chats</h4>
+                    </header>
+
+                    <a class="section-latest-02 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        The Apple privacy offensive continues -- and Google and Facebook are shook
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        WhatsApp will require a fingerprint or FaceId to use its desktop apps
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Zuckerberg promises Facebook will show less political content from now on
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Every navigation app should have Cowboy's air-quality ebike route feature
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        We ranked the new iOs 14.4 features from worst to best
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Gear -->
+            <div class="other-news-container">
+                <h2 class="title">Gear
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-03 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">Focal's new Celestee headphones are a $900 audiophile luxury</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Intel now sell desktop graphics cards, but don't get your hopes up</h4>
+                    </header>
+
+                    <a class="section-latest-03 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Sony's $6,498 a1 is an overkill camera for photo and video pros
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Report: Apple may bring MagSafe and SD card slots back to MacBook
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Report: Apple to make plain old VR headset before its fancy AR glasses
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        KEF's new basketball sized subwoofer promises 'maximum bass in minimum space'
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Qualcomm's new Sanpdragon 870 is an 'almost-flagship' chip for Android phones
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Tech -->
+            <div class="other-news-container">
+                <h2 class="title">Tech
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-04 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">The youngest AI programmer in the world is a 7-year-old Guinness record holder</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Gothenburg gears up to test future transport tech in the heart of town</h4>
+                    </header>
+
+                    <a class="section-latest-04 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        A frustating timeline of Tesla Roadster delays
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        How an army of sewer robots can help us fix our clogged pipes
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Why cybersecurity needs an API-first mentality
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        London DOUBLED its number of rapid EV chargers in 2020 -- nice
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Why Tesla's impractical butterfly steering wheel probably won't make it into production
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Creative -->
+            <div class="other-news-container">
+                <h2 class="title">Creative
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-05 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">How Global crises affects design</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Graphic design apps are now as fundamental as Excel -- here's how non-designers get</h4>
+                    </header>
+
+                    <a class="section-latest-05 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        This real-world multiplayer game lets you spend other people’s money — really
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Warzone is infinitely more fun without vehicles (even though it's just a bug)
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        The Winamp Skin Museum is a beautiful homage to an iconic piece of software
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Why skin tone modifiers don't work for
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Why you need Design Thinking and Proofs of Concept to level up your business
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Podium -->
+            <div class="other-news-container">
+                <h2 class="title">Podium
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-06 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">2021 will be the year open source projects overcome their diversity problems</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Google still abuses its search monopoly in the EU -- regulators wake up</h4>
+                    </header>
+
+                    <a class="section-latest-06 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/podium/2020/09/25/mixed-reality-is-perfect-for-our-innate-multitasking-habits/" target="_blank" rel="noopener noreferrer">
+                        Mixed reality is perfect for our innate multitasking habits
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/neural/2020/09/18/6-big-data-blunders-businesses-should-avoid/" target="_blank" rel="noopener noreferrer">
+                        6 big data blunders businesses should avoid
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/" target="_blank" rel="noopener noreferrer">
+                        The AI landscape is shifting from 'data' to 'knowledge.' Here's why that matters
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/podium/2020/09/04/disruptive-fintech-is-our-best-bet-to-economic-recovery-post-covid-19/" target="_blank" rel="noopener noreferrer">
+                        Disruptive fintech is our best bet to economic recovery post COVID-19
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/podium/2020/07/16/tech-in-latin-america-an-entrepreneurs-guide-to-junes-startup-news/" target="_blank" rel="noopener noreferrer">
+                        Tech in Latin America: An entrepreneur’s guide to June’s startup news
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Insights -->
+            <div class="other-news-container">
+                <h2 class="title">Insights
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-07 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/growth-quarters/2021/01/29/how-uk-startups-are-keeping-their-eu-connections-alive-after-brexit/">How UK startups are keeping their EU connections alive after Brexit</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">How your 'fighting style' should determine your team</h4>
+                    </header>
+
+                    <a class="section-latest-07 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/podium/2020/09/25/mixed-reality-is-perfect-for-our-innate-multitasking-habits/" target="_blank" rel="noopener noreferrer">
+                        How to reach your first $1M investment: Tips from someone who’s actually done it
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/science/2021/01/28/how-to-get-back-your-sense-of-smell-after-covid-19-according-to-science-syndication/" target="_blank" rel="noopener noreferrer">
+                        How to get back your sense of smell after COVID-19, according to science
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/growth-quarters/2021/01/28/work-relationships-are-a-lot-harder-to-build-on-zoom-but-theres-a-fix-syndication/" target="_blank" rel="noopener noreferrer">
+                        Work relationships are a lot harder to build on Zoom — but there's a fix
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/insights/2021/01/27/scientists-say-dropping-acid-can-help-with-social-anxiety-and-alcoholism/" target="_blank" rel="noopener noreferrer">
+                        Scientists say dropping acid can help with social anxiety and alcoholism
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2021/01/27/buying-a-second-hand-ev-do-these-5-things-first/" target="_blank" rel="noopener noreferrer">
+                        Buying a second-hand EV? Do these 5 things first
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Launch -->
+            <div class="other-news-container">
+                <h2 class="title">Launch
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-08 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="https://thenextweb.com/shift/2020/12/08/about-time-toyota-finally-announces-an-all-electric-vehicle/" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/shift/2020/12/08/about-time-toyota-finally-announces-an-all-electric-vehicle/">About time! Toyota finally announces an all-electric vehicle</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">I've fallen for the electric Hummer and I hate myself for it</h4>
+                    </header>
+
+                    <a class="section-latest-08 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/10/09/amazons-electric-delivery-vans-made-by-rivian-are-here-and-theyre-pretty-cute/" target="_blank" rel="noopener noreferrer">
+                        Amazon's electric delivery vans made by Rivian are here, and they're pretty cute
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/10/08/this-adorable-little-electric-car-is-made-of-trash/" target="_blank" rel="noopener noreferrer">
+                        This adorable little electric car is made of trash
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/10/07/hyundais-first-fuel-cell-powered-trucks-arrive-in-switzerland-bye-bye-diesel/" target="_blank" rel="noopener noreferrer">
+                        Hyundai's first fuel cell-powered trucks arrive in Switzerland — bye bye, diesel
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/09/30/lynk-co-car-owning-sharing-scheme-never-cost-more-than-500-per-month/" target="_blank" rel="noopener noreferrer">
+                        Lynk & Co.'s car sharing-owning scheme will never cost more than €500 a month
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/09/09/lucid-air-ev-luxury-unveiled-pictures-517-miles-fastest-not-model-s/" target="_blank" rel="noopener noreferrer">
+                        Lucid unveils the Air, its luxury EV with up to 517-miles of range costing as much as $169K
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Distract -->
+            <div class="other-news-container">
+                <h2 class="title">Distract
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-09 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="https://thenextweb.com/basics/2021/01/28/how-to-get-over-the-intimidation-factor-and-start-loving-hardcore-strategy-games/" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/basics/2021/01/28/how-to-get-over-the-intimidation-factor-and-start-loving-hardcore-strategy-games/">How to get over the intimidation factor and start loving hardcore strategy games</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">The Medium is worth playing, but only if you have Game Pass</h4>
+                    </header>
+
+                    <a class="section-latest-09 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/distract/2021/01/21/amplitude-celebrates-10-years-with-a-free-weekend-of-endless-games/" target="_blank" rel="noopener noreferrer">
+                        Amplitude celebrates 10 years with a free weekend of Endless games
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/distract/2021/01/20/the-best-vampire-games-and-mods-to-play-until-bloodlines-2-releases-later-this-year/" target="_blank" rel="noopener noreferrer">
+                        The best vampire games and mods to play until Bloodlines 2 releases later this year
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/distract/2021/01/12/games-to-play-on-date-night-rule-the-galaxy-together-in-stellaris/" target="_blank" rel="noopener noreferrer">
+                        Games to play on date night: Rule the galaxy together in Stellaris
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/growth-quarters/2020/12/29/we-need-to-make-remote-meetings-more-boring-in-2021/" target="_blank" rel="noopener noreferrer">
+                        We need to make remote meetings more boring in 2021
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/distract/2020/12/28/the-podcasts-that-got-us-through-2020/" target="_blank" rel="noopener noreferrer">
+                        The podcasts that got us through 2020
+                        </a>
+                    </h4>
+                </div>
+            </div>
+        </section>
+
+        <section class="latest-deals">
+            <h2 class="title">Latest deals
+                <i class="material-icons">chevron_right</i>
+            </h2>
+            <div class="latest-stories">
+                <div class="first-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-01.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Pro Google SEO & SERP Certification Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$2000</span>
+                            <span class="deal-price-new">$29</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="second-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-02.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Ultimate 2021 White Hat Hacker Certification Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$1345</span>
+                            <span class="deal-price-new">$39.90</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="third-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-03.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Ultimate Logic Pro X Music Production Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$690</span>
+                            <span class="deal-price-new">$29</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="fourth-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-04.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            Elocance Audio Reading App: Lifetime Subscription
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$434</span>
+                            <span class="deal-price-new">$34.99</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="fifth-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-05.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            KeepSolid VPN Unlimited: Lifetime Subscription
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$199</span>
+                            <span class="deal-price-new">$39.99</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="sixth-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-06.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Complete 2021 CompTIA Certification Training Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$5225</span>
+                            <span class="deal-price-new">$69.99</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="seventh-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-07.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            Beelinguapp Language Learning App: Lifetime Subscription
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$100</span>
+                            <span class="deal-price-new">$39.99</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="eight-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-08.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Complete 2021 Microsoft Azure Certification Prep Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$1839</span>
+                            <span class="deal-price-new">$39</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer class="page-footer">
+        <div class="footer-container">
+            <div class="footer-links-wrapper">
+                <div class="links">
+                    <nav class="footer-links">
+                        <ul>
+                            <li><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="other-links">
+                    <nav class="other-footer-links">
+                        <ul>
+                            <li><a href="http://">EVENTS</a></li>
+                            <li><a href="http://">ABOUT</a></li>
+                            <li><a href="http://">ADVERTISE</a></li>
+                            <li><a href="http://">JOBS</a></li>
+                            <li><a href="http://">CONTACT</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="footer-legal-wrapper">
+                <div class="footer-legal">
+                    <span>
+                        <a href="/">
+                            Ujwal Pansari &copy; 2021
+                        </a>
+                    </span>
+                    <span>Made with &lt;3 in India.</span>
+                    <span>
+                        Powered by
+                        <a href="https://www.stackpath.com?utm_campaign=Partner%20Display&amp;utm_source=Partner%20Display&amp;utm_medium=thenextweb" target="_blank" rel="noopener">
+                            <img alt="StackPath" class="footer-legal-logoStackPath" src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/img/stackpath.svg">
+                        </a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="author" content="Ujwal Pansari">
+    <meta name="description" content="The Odin Project Challenge. The Next Web Clone">
+    <meta name="keywords" content="HTML, CSS, responsive design, The Odin Project, The Next Web, TNW">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="./images/favicon-96x96.webp" type="image/x-icon">
+    <link rel="stylesheet" href="./style/reset.css">
+    <link rel="stylesheet" href="./style/style.css">
+    <title>TNW</title>
+</head>
+<body>
+    
+    <header class="page-header">
+        <div class="nav-links-wrapper">
+            <div class="logo">
+                <a href="">
+                    <img src="./images/tnw.svg" alt="TNW Logo">
+                </a>
+            </div>
+            <nav class="left-nav-links">
+                <ul>
+                    <li><a href="http://" target="_blank" rel="noopener noreferrer">LATEST</a></li>
+                    <li><a href="http://" target="_blank" rel="noopener noreferrer">HARD FORK</a></li>
+                    <li><a href="http://" target="_blank" rel="noopener noreferrer">PLUGGED</a></li>
+                    <li><a href="http://" target="_blank" rel="noopener noreferrer">README</a></li>
+                    <li><a href="http://" target="_blank" rel="noopener noreferrer">GROWTH QUARTERS</a></li>
+                </ul>
+            </nav>
+            <nav class="nav-links">
+                <ul>
+                    <li>
+                        <a href="#">
+                            <i class="material-icons search">search</i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="material-icons menu">menu</i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Cover -->
+    <main class="main">
+        <div class="cover">
+            <article>
+                <div class="cover-background cover-background-01" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/Article-Cover/MacBook-USB-C.jpg"></div>
+                <a class="cover-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                <header class="cover-header">
+                    <h5 class="section">
+                        <a href="/section/gear">world</a>
+                    </h5>
+                    <h2 class="cover-title">
+                        <a href="https://thenextweb.com/plugged/2021/01/22/report-apple-may-bring-magsafe-and-sd-card-slots-back-to-macbook/">NASA delays Juno spacecraft's retirement after detecting mysterious radio waves</a>
+                    </h2>
+                    <ul class="cover-byline">
+                        <li>
+                            By
+                            <a href="https://thenextweb.com/author/napierlopez/">The Cosmic Companion</a>
+                        </li>
+                        <li>
+                            <i class="material-icons">query_builder</i>
+                            <time datetime="2021-01-23T18:00:16+00:00" class="timeago" data-full-date="Jan 23, 2021 - 23:30">17 hours ago</time>
+                        </li>
+                        <li>
+                            <i class="material-icons">share</i>
+                            43
+                        </li>
+                    </ul>
+                </header>
+            </article>
+            <article>
+                <div class="cover-background cover-background-02" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/Article-Cover/ludicrousspeed.webp"></div>
+                <a class="cover-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                <header class="cover-header">
+                    <h5 class="section">
+                        <a href="/section/gear">tech</a>
+                    </h5>
+                    <h2 class="cover-title">
+                        <a href="https://thenextweb.com/plugged/2021/01/22/report-apple-may-bring-magsafe-and-sd-card-slots-back-to-macbook/">Awful parking is the worst thing about escooters -- TIER has a plan to fix it</a>
+                    </h2>
+                    <ul class="cover-byline">
+                        <li>
+                            By
+                            <a href="https://thenextweb.com/author/napierlopez/">Cities Today</a>
+                        </li>
+                        <li>
+                            <i class="material-icons">query_builder</i>
+                            <time datetime="2021-01-23T16:30:34+00:00" class="timeago" data-full-date="Jan 23, 2021 - 22:00">19 hours ago</time>
+                        </li>
+                        <li>
+                            <i class="material-icons">share</i>
+                            22
+                        </li>
+                    </ul>
+                </header>
+            </article>
+            <article>
+                <div class="cover-background cover-background-03" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/Article-Cover/Snag_b1616b8-796x407.webp"></div>
+                <a class="cover-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                <header class="cover-header">
+                    <h5 class="section">
+                        <a href="/section/gear">tech</a>
+                    </h5>
+                    <h2 class="cover-title">
+                        <a href="https://thenextweb.com/plugged/2021/01/22/report-apple-may-bring-magsafe-and-sd-card-slots-back-to-macbook/">A closer look at AI Incident Database of machine learning failures</a>
+                    </h2>
+                    <ul class="cover-byline">
+                        <li>
+                            By
+                            <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                        </li>
+                        <li>
+                            <i class="material-icons">query_builder</i>
+                            <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                        </li>
+                        <li>
+                            <i class="material-icons">share</i>
+                            76
+                        </li>
+                    </ul>
+                </header>
+            </article>
+        </div>
+    </main>
+
+    <div class="wrapper">
+        <section class="latest-news">
+            <h2 class="title">Latest news
+                <i class="material-icons">chevron_right</i>
+            </h2>
+            <div class="latest-stories">
+                <div class="first-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-01.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            Earth has been habitable for billions of years -- simulations show it was 'just luck'
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">The Conversation</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-24T11:00:05+00:00" class="timeago" data-full-date="Jan 24, 2021 - 16:30">59 minutes ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="second-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-02.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            If you're having problems with your home WiFi network, this Asus router might be your answer
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">TNW Deals</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-23T14:30:49+00:00" class="timeago" data-full-date="Jan 23, 2021 - 20:00">21 hours ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="third-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-03.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            This training package can get you started on a $120,000 a year career as a cloud architect
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">TNW Deals</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-23T14:30:49+00:00" class="timeago" data-full-date="Jan 23, 2021 - 20:00">21 hours ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="fourth-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-04.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            Report: Apple may bring MagSafe and SD card slots backt to MacBook
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Napier Lopez</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="fifth-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-05.webp" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            New physics theory postulates the existence of SLABs: Stupendously Large Black Holes
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Tristan Greene</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="sixth-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-06.webp" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            Google Search has new mobile design -- come spot the difference
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Napier Lopez</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="seventh-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-07.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            A pansexual's perspective on Mass Effect 2's capitulation to Fox News
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Tristan Greene</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="eight-story story">
+                    <a href="" class="story-link">
+                        <img src="./images/Latest-News/Latest-News-08.jpg" alt="" class="story-image">
+                    </a>
+                    <div class="story-details">
+                        <h2 class="story-title">
+                            New 'robomorphic' computing method aims to speed up slow witted robots
+                        </h2>
+                        <ul class="story-byline">
+                            <li>
+                                <a href="https://thenextweb.com/author/theconversation/">Thomas Macaulay</a>
+                            </li>
+                            <li>
+                                <time datetime="2021-01-22T23:26:14+00:00" class="timeago" data-full-date="Jan 23, 2021 - 04:56">1 day ago</time>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="funding">
+            <header class="funding-header">
+                <h2 class="title">Latest funding rounds on index.co
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <a class="funding-header-more" href="https://index.co/investments?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">See more</a>
+                <a class="funding-header-more" href="https://index.co/investments?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">Get updates by email</a>
+                <a class="funding-header-more" href="https://index.co/faq?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com#addFunding" target="_blank" rel="noopener noreferrer">Add info</a>
+            </header>
+            <div class="funding-body">
+                <div class="funding-body-wrapper">
+                    <div class="funding-story-container">
+                        <div class="funding-story">
+                            <a class="company-link" href="https://index.co/company/safetywing/funding/series-a?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                <img src="./images/Funding/funding-image-01.jpg" alt="SafetyWing Logo" class="company-logo">
+                                <h4 class="company-name">SafetyWing</h4>
+                                <div class="funding-details">
+                                    <h4>$8M</h4>
+                                    <h5>SERIES A</h5>
+                                </div>
+                            </a>
+                            <div class="funding-card">
+                                <a class="funding-card-bit" href="https://index.co/company/safetywing/funding/series-a?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">local_offer</i>
+                                    <span>Freelancers, +2</span>
+                                </a>
+                                <a class="funding-card-bit" href="https://index.co/company/safetywing/funding/series-a?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">business_center</i>
+                                    <span>Creandum, +2</span>
+                                </a>
+                            </div>
+                            <div class="funding-byline">
+                                <a class="story-link" href="https://www.forbes.com/sites/jonathankeane/2021/01/22/safetywing-raises-8-million-to-expand-its-health-insurance-for-digital-nomads/" target="_blank" rel="noopener noreferrer">
+                                    SafetyWing Raises $8 Million To Expand Its Health Insurance For ‘Digital Nomads’
+                                    <span class="story-title-source">on&nbsp;Forbes Tech</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="funding-story-container">
+                        <div class="funding-story">
+                            <a class="company-link" href="https://index.co/company/blobr/funding/pre-seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                <img src="./images/Funding/funding-image-02.jpg" alt="SafetyWing Logo" class="company-logo">
+                                <h4 class="company-name">Blobr</h4>
+                                <div class="funding-details">
+                                    <h4>&#128;1.2M</h4>
+                                    <h5>PRE-SEED</h5>
+                                </div>
+                            </a>
+                            <div class="funding-card">
+                                <a class="funding-card-bit" href="https://index.co/company/blobr/funding/pre-seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">local_offer</i>
+                                    <span>Information Technology</span>
+                                </a>
+                                <a class="funding-card-bit" href="https://index.co/company/blobr/funding/pre-seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">business_center</i>
+                                    <span>Seedcamp, +2</span>
+                                </a>
+                            </div>
+                            <div class="funding-byline">
+                                <a class="story-link" href="https://social.techcrunch.com/2021/01/22/blobr/" target="_blank" rel="noopener noreferrer">
+                                    Blobr the 'no-code' company turning APIs into products, raise &#128;1.2M
+                                    <span class="story-title-source">on&nbsp;TechCrunch</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="funding-story-container">
+                        <div class="funding-story">
+                            <a class="company-link" href="https://index.co/company/Marxent/funding/series-c?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                <img src="./images/Funding/funding-image-03.jpg" alt="SafetyWing Logo" class="company-logo">
+                                <h4 class="company-name">Marxent Labs</h4>
+                                <div class="funding-details">
+                                    <h4>$15M</h4>
+                                    <h5>SERIES C</h5>
+                                </div>
+                            </a>
+                            <div class="funding-card">
+                                <a class="funding-card-bit" href="https://index.co/company/Marxent/funding/series-c?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">local_offer</i>
+                                    <span>Retail, +3</span>
+                                </a>
+                                <a class="funding-card-bit" href="https://index.co/company/Marxent/funding/series-c?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">business_center</i>
+                                    <span>Bellini Captial</span>
+                                </a>
+                            </div>
+                            <div class="funding-byline">
+                                <a class="story-link" href="https://www.forbes.com/sites/jonathankeane/2021/01/22/safetywing-raises-8-million-to-expand-its-health-insurance-for-digital-nomads/" target="_blank" rel="noopener noreferrer">
+                                    Marxent raises $15M to expand an enterprise 3D home design platform
+                                    <span class="story-title-source">on&nbsp;VentureBeat</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="funding-story-container">
+                        <div class="funding-story">
+                            <a class="company-link" href="https://index.co/company/iteratively/funding/seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                <img src="./images/Funding/funding-image-04.jpg" alt="SafetyWing Logo" class="company-logo">
+                                <h4 class="company-name">Iteratively</h4>
+                                <div class="funding-details">
+                                    <h4>$5.4M</h4>
+                                    <h5>SEED FUND</h5>
+                                </div>
+                            </a>
+                            <div class="funding-card">
+                                <a class="funding-card-bit" href="https://index.co/company/iteratively/funding/seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">local_offer</i>
+                                    <span>Information Technology, +2</span>
+                                </a>
+                                <a class="funding-card-bit" href="https://index.co/company/iteratively/funding/seed?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com" target="_blank" rel="noopener noreferrer">
+                                    <i class="material-icons">business_center</i>
+                                    <span>Fika Ventures</span>
+                                </a>
+                            </div>
+                            <div class="funding-byline">
+                                <a class="story-link" href="https://www.forbes.com/sites/jonathankeane/2021/01/22/safetywing-raises-8-million-to-expand-its-health-insurance-for-digital-nomads/" target="_blank" rel="noopener noreferrer">
+                                    Google's AI fund leads $5.4M round for data startup Iteratively
+                                    <span class="story-title-source">on&nbsp;SiliconANGLE</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="other-news">
+            <div class="other-news-container">
+                <h2 class="title">Hard Fork
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-01 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/jack-ma.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/22/report-apple-may-bring-magsafe-and-sd-card-slots-back-to-macbook/">Out of the loop about GameStop? Here's a handy reading list</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">GameStop stocks hit record high -- thanks to Redditors</h4>
+                    </header>
+
+                    <a class="section-latest-01 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Alibaba shares jump 8% as Jack Ma surfaces after 3 months
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Twitter shares fall 7% in pre-market trading after Trump's removal 
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Winklevoss comes out of meditation to witness Bitcoins's record high
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        CD Projekt Rekt: Cyberpunk 2077 tanks studio's share price nearly 50%
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        CD Projekt stock down 20% since Cyberpunk reviews hit the internet
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Apps -->
+            <div class="other-news-container">
+                <h2 class="title">Apps
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-02 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">netflix is testing a sleep timer for your late night binges</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Telegram just made it easy to import WhatsApp chats</h4>
+                    </header>
+
+                    <a class="section-latest-02 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        The Apple privacy offensive continues -- and Google and Facebook are shook
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        WhatsApp will require a fingerprint or FaceId to use its desktop apps
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Zuckerberg promises Facebook will show less political content from now on
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Every navigation app should have Cowboy's air-quality ebike route feature
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        We ranked the new iOs 14.4 features from worst to best
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Gear -->
+            <div class="other-news-container">
+                <h2 class="title">Gear
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-03 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">Focal's new Celestee headphones are a $900 audiophile luxury</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Intel now sell desktop graphics cards, but don't get your hopes up</h4>
+                    </header>
+
+                    <a class="section-latest-03 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Sony's $6,498 a1 is an overkill camera for photo and video pros
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Report: Apple may bring MagSafe and SD card slots back to MacBook
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Report: Apple to make plain old VR headset before its fancy AR glasses
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        KEF's new basketball sized subwoofer promises 'maximum bass in minimum space'
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Qualcomm's new Sanpdragon 870 is an 'almost-flagship' chip for Android phones
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Tech -->
+            <div class="other-news-container">
+                <h2 class="title">Tech
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-04 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">The youngest AI programmer in the world is a 7-year-old Guinness record holder</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Gothenburg gears up to test future transport tech in the heart of town</h4>
+                    </header>
+
+                    <a class="section-latest-04 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        A frustating timeline of Tesla Roadster delays
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        How an army of sewer robots can help us fix our clogged pipes
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Why cybersecurity needs an API-first mentality
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        London DOUBLED its number of rapid EV chargers in 2020 -- nice
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Why Tesla's impractical butterfly steering wheel probably won't make it into production
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Creative -->
+            <div class="other-news-container">
+                <h2 class="title">Creative
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-05 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">How Global crises affects design</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Graphic design apps are now as fundamental as Excel -- here's how non-designers get</h4>
+                    </header>
+
+                    <a class="section-latest-05 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        This real-world multiplayer game lets you spend other people’s money — really
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Warzone is infinitely more fun without vehicles (even though it's just a bug)
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        The Winamp Skin Museum is a beautiful homage to an iconic piece of software
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Why skin tone modifiers don't work for
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/hardfork/2021/01/20/alibaba-shares-jump-8-as-jack-ma-surfaces-after-3-months/" target="_blank" rel="noopener noreferrer">
+                        Why you need Design Thinking and Proofs of Concept to level up your business
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Podium -->
+            <div class="other-news-container">
+                <h2 class="title">Podium
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-06 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/plugged/2021/01/30/netflix-is-testing-a-sleep-timer-for-your-late-night-binges/">2021 will be the year open source projects overcome their diversity problems</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">Google still abuses its search monopoly in the EU -- regulators wake up</h4>
+                    </header>
+
+                    <a class="section-latest-06 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/podium/2020/09/25/mixed-reality-is-perfect-for-our-innate-multitasking-habits/" target="_blank" rel="noopener noreferrer">
+                        Mixed reality is perfect for our innate multitasking habits
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/neural/2020/09/18/6-big-data-blunders-businesses-should-avoid/" target="_blank" rel="noopener noreferrer">
+                        6 big data blunders businesses should avoid
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/neural/2020/09/18/the-ai-landscape-is-shifting-from-data-to-knowledge-heres-why-that-matters/" target="_blank" rel="noopener noreferrer">
+                        The AI landscape is shifting from 'data' to 'knowledge.' Here's why that matters
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/podium/2020/09/04/disruptive-fintech-is-our-best-bet-to-economic-recovery-post-covid-19/" target="_blank" rel="noopener noreferrer">
+                        Disruptive fintech is our best bet to economic recovery post COVID-19
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/podium/2020/07/16/tech-in-latin-america-an-entrepreneurs-guide-to-junes-startup-news/" target="_blank" rel="noopener noreferrer">
+                        Tech in Latin America: An entrepreneur’s guide to June’s startup news
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Insights -->
+            <div class="other-news-container">
+                <h2 class="title">Insights
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-07 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="http://" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/growth-quarters/2021/01/29/how-uk-startups-are-keeping-their-eu-connections-alive-after-brexit/">How UK startups are keeping their EU connections alive after Brexit</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">How your 'fighting style' should determine your team</h4>
+                    </header>
+
+                    <a class="section-latest-07 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/podium/2020/09/25/mixed-reality-is-perfect-for-our-innate-multitasking-habits/" target="_blank" rel="noopener noreferrer">
+                        How to reach your first $1M investment: Tips from someone who’s actually done it
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/science/2021/01/28/how-to-get-back-your-sense-of-smell-after-covid-19-according-to-science-syndication/" target="_blank" rel="noopener noreferrer">
+                        How to get back your sense of smell after COVID-19, according to science
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/growth-quarters/2021/01/28/work-relationships-are-a-lot-harder-to-build-on-zoom-but-theres-a-fix-syndication/" target="_blank" rel="noopener noreferrer">
+                        Work relationships are a lot harder to build on Zoom — but there's a fix
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/insights/2021/01/27/scientists-say-dropping-acid-can-help-with-social-anxiety-and-alcoholism/" target="_blank" rel="noopener noreferrer">
+                        Scientists say dropping acid can help with social anxiety and alcoholism
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2021/01/27/buying-a-second-hand-ev-do-these-5-things-first/" target="_blank" rel="noopener noreferrer">
+                        Buying a second-hand EV? Do these 5 things first
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Launch -->
+            <div class="other-news-container">
+                <h2 class="title">Launch
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-08 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="https://thenextweb.com/shift/2020/12/08/about-time-toyota-finally-announces-an-all-electric-vehicle/" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/shift/2020/12/08/about-time-toyota-finally-announces-an-all-electric-vehicle/">About time! Toyota finally announces an all-electric vehicle</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">I've fallen for the electric Hummer and I hate myself for it</h4>
+                    </header>
+
+                    <a class="section-latest-08 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/10/09/amazons-electric-delivery-vans-made-by-rivian-are-here-and-theyre-pretty-cute/" target="_blank" rel="noopener noreferrer">
+                        Amazon's electric delivery vans made by Rivian are here, and they're pretty cute
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/10/08/this-adorable-little-electric-car-is-made-of-trash/" target="_blank" rel="noopener noreferrer">
+                        This adorable little electric car is made of trash
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/10/07/hyundais-first-fuel-cell-powered-trucks-arrive-in-switzerland-bye-bye-diesel/" target="_blank" rel="noopener noreferrer">
+                        Hyundai's first fuel cell-powered trucks arrive in Switzerland — bye bye, diesel
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/09/30/lynk-co-car-owning-sharing-scheme-never-cost-more-than-500-per-month/" target="_blank" rel="noopener noreferrer">
+                        Lynk & Co.'s car sharing-owning scheme will never cost more than €500 a month
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/shift/2020/09/09/lucid-air-ev-luxury-unveiled-pictures-517-miles-fastest-not-model-s/" target="_blank" rel="noopener noreferrer">
+                        Lucid unveils the Air, its luxury EV with up to 517-miles of range costing as much as $169K
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <!-- Distract -->
+            <div class="other-news-container">
+                <h2 class="title">Distract
+                    <i class="material-icons">chevron_right</i>
+                </h2>
+                <div class="other-news-body">
+                    <div>
+                        <article class="section-popular">
+                            <div class="other-news-09 other-news-image" sizes="(max-width: 730px) 100vw, 730px" width="730" height="365" src="./images/.jpg"></div>
+                            <a class="news-link" href="https://thenextweb.com/basics/2021/01/28/how-to-get-over-the-intimidation-factor-and-start-loving-hardcore-strategy-games/" target="_blank" rel="noopener noreferrer"></a>
+                            <header class="news-cover-header">
+                                <h5 class="news-section">
+                                    <a href="/section/gear">most popular</a>
+                                </h5>
+                                <h2 class="news-cover-title">
+                                    <a href="https://thenextweb.com/basics/2021/01/28/how-to-get-over-the-intimidation-factor-and-start-loving-hardcore-strategy-games/">How to get over the intimidation factor and start loving hardcore strategy games</a>
+                                </h2>
+                                <ul class="news-cover-byline">
+                                    <li>
+                                        <a href="https://thenextweb.com/author/napierlopez/">Ben Dickson</a>
+                                    </li>
+                                    <li>
+                                        <time datetime="2021-01-23T10:00:40+00:00" class="timeago" data-full-date="Jan 23, 2021 - 15:30">1 day ago</time>
+                                    </li>
+                                </ul>
+                            </header>
+                        </article>
+                    </div>
+                </div>
+                <div class="section-latest">
+                    <header class="section-latest-header">
+                        <h5 class="section-title">LATEST</h5>
+                        <h4 class="section-desc">The Medium is worth playing, but only if you have Game Pass</h4>
+                    </header>
+
+                    <a class="section-latest-09 section-latest-image" href="https://thenextweb.com/hardfork/2021/01/25/gamestop-stocks-hit-record-high-thanks-to-redditors/" target="_blank" rel="noopener noreferrer"></a>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/distract/2021/01/21/amplitude-celebrates-10-years-with-a-free-weekend-of-endless-games/" target="_blank" rel="noopener noreferrer">
+                        Amplitude celebrates 10 years with a free weekend of Endless games
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/distract/2021/01/20/the-best-vampire-games-and-mods-to-play-until-bloodlines-2-releases-later-this-year/" target="_blank" rel="noopener noreferrer">
+                        The best vampire games and mods to play until Bloodlines 2 releases later this year
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/distract/2021/01/12/games-to-play-on-date-night-rule-the-galaxy-together-in-stellaris/" target="_blank" rel="noopener noreferrer">
+                        Games to play on date night: Rule the galaxy together in Stellaris
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/growth-quarters/2020/12/29/we-need-to-make-remote-meetings-more-boring-in-2021/" target="_blank" rel="noopener noreferrer">
+                        We need to make remote meetings more boring in 2021
+                        </a>
+                    </h4>
+                </div>
+                <div class="section-headline">
+                    <h4 class="section-headline-title">
+                        <a class="section-headline-link" href="https://thenextweb.com/distract/2020/12/28/the-podcasts-that-got-us-through-2020/" target="_blank" rel="noopener noreferrer">
+                        The podcasts that got us through 2020
+                        </a>
+                    </h4>
+                </div>
+            </div>
+        </section>
+
+        <section class="latest-deals">
+            <h2 class="title">Latest deals
+                <i class="material-icons">chevron_right</i>
+            </h2>
+            <div class="latest-stories">
+                <div class="first-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-01.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Pro Google SEO & SERP Certification Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$2000</span>
+                            <span class="deal-price-new">$29</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="second-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-02.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Ultimate 2021 White Hat Hacker Certification Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$1345</span>
+                            <span class="deal-price-new">$39.90</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="third-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-03.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Ultimate Logic Pro X Music Production Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$690</span>
+                            <span class="deal-price-new">$29</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="fourth-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-04.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            Elocance Audio Reading App: Lifetime Subscription
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$434</span>
+                            <span class="deal-price-new">$34.99</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="fifth-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-05.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            KeepSolid VPN Unlimited: Lifetime Subscription
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$199</span>
+                            <span class="deal-price-new">$39.99</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="sixth-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-06.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Complete 2021 CompTIA Certification Training Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$5225</span>
+                            <span class="deal-price-new">$69.99</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="seventh-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-07.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            Beelinguapp Language Learning App: Lifetime Subscription
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$100</span>
+                            <span class="deal-price-new">$39.99</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="eight-deal deal">
+                    <a href="" class="deal-link">
+                        <img src="./images/Latest-Deals/Latest-deal-08.jpg" alt="" class="deal-image">
+                    </a>
+                    <div class="deal-details">
+                        <h2 class="deal-title">
+                            The Complete 2021 Microsoft Azure Certification Prep Bundle
+                        </h2>
+                        <div class="deal-price">
+                            <span class="deal-price-old">$1839</span>
+                            <span class="deal-price-new">$39</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer class="page-footer">
+        <div class="footer-container">
+            <div class="footer-links-wrapper">
+                <div class="links">
+                    <nav class="footer-links">
+                        <ul>
+                            <li><a href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="other-links">
+                    <nav class="other-footer-links">
+                        <ul>
+                            <li><a href="http://">EVENTS</a></li>
+                            <li><a href="http://">ABOUT</a></li>
+                            <li><a href="http://">ADVERTISE</a></li>
+                            <li><a href="http://">JOBS</a></li>
+                            <li><a href="http://">CONTACT</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="footer-legal-wrapper">
+                <div class="footer-legal">
+                    <span>
+                        <a href="/">
+                            Ujwal Pansari &copy; 2021
+                        </a>
+                    </span>
+                    <span>Made with &lt;3 in India.</span>
+                    <span>
+                        Powered by
+                        <a href="https://www.stackpath.com?utm_campaign=Partner%20Display&amp;utm_source=Partner%20Display&amp;utm_medium=thenextweb" target="_blank" rel="noopener">
+                            <img alt="StackPath" class="footer-legal-logoStackPath" src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/img/stackpath.svg">
+                        </a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>
