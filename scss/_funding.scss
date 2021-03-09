@@ -1,4 +1,4 @@
-@media (max-width:480px){
+
     .deals-header{
         margin-bottom: 24px;
     }
@@ -10,6 +10,8 @@
     }
     .vertical{
         position: relative;
+        flex-basis: 100%;
+            max-width: 100%;
     }
     .vertical .story-byline {
         border-top: 1px solid rgba(255,68,34,.25);
@@ -40,7 +42,9 @@
             
         }
     .story-title-link{
-        color: #555;
+        font-size: 12px;
+            font-weight: 400;
+            color: #555;
     }
     .story-title-source{
         color: #aaa;
@@ -89,6 +93,7 @@
         flex-flow: row wrap;
         margin: -8px;
             margin-bottom: -8px;
+            
     }
     .story-investmentCard-company-image {
         width: 60px;
@@ -101,6 +106,61 @@
         position: absolute;
         top: 0;
         left: 0;
-        z-index: 10;
+        z-index: 1;
     }
+@media(min-width:768px){
+    .investments{
+       flex-direction: row;
+    }
+    .u-row{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 25px;
+    }
+    .vertical:nth-of-type(4){
+        display: none;
+    }
+    .flex-container{
+        display: flex;
+        // justify-content: flex-start;
+        a{
+            padding-right: 11px;
+            font-size: 16px;
+            line-height: 0px;
+            
+    
+        }
+        a:nth-child(2){
+            border-right: 1px solid $primary-color;
+            padding-left: 11px;
+            padding-right: 11px;
+        }
+        a:nth-child(3){
+           
+            padding-left: 11px;
+            padding-right: 11px;
+        }
+        a:nth-child(1){
+            border-right: 1px solid $primary-color;
+            
+            padding-right: 11px;
+        }
+    }
+
 }
+@media(min-width:1023px){
+    .u-row{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .vertical:nth-of-type(4){
+        display: contents;
+}
+}
+// .u-row {
+//     display: flex;
+//     flex: 0 1 auto;
+//     // flex-flow: row wrap;
+//     margin: -8px;
+//         margin-bottom: -8px;
+        
+// }

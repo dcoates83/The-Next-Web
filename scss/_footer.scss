@@ -1,7 +1,11 @@
-@media(max-width:480px){
+
     .footer{
         margin-top: 5em;
         text-align: center;
+        background: #131313;
+        padding: 2.5em 0;
+    }
+    .footer-links {
         background: #131313;
         padding: 2.5em 0;
     }
@@ -39,8 +43,29 @@
         }
         
     }
+
     .footer-legal{
         display: none;
     }
+    @media(min-width:480px){
+        
+    .footer-legal{
+        background: #000;
+    color: #aaa;
+    font-size: 13px;
+   padding: 2.5em 0;
+    display: contents;
+    a{
+        display: inline flow-root list-item;
+    }
+    }
 
-}
+    .footer-legal-logoStackPath, .footer-legal-logoTNW {
+        display: inline-block;
+        height: 9px;
+        margin-right: 1px;
+        vertical-align: baseline;
+    }
+    
+
+    }
