@@ -70,6 +70,12 @@ nav .logo {
   top: 0;
 }
 
+nav .list-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 nav .nav-mob {
   display: -webkit-box;
   display: -ms-flexbox;
